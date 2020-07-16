@@ -1,0 +1,1 @@
+![](https://cdn.jsdelivr.net/gh/jaslli/HexoFile1@latest/wallpaper.jpg)
