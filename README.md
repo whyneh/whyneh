@@ -12,4 +12,9 @@ Hello!这里是yww，一个业余的开发爱好者。
 ##### wakeTime
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
