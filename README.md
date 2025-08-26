@@ -14,6 +14,8 @@ Hello!这里是yww，一个业余的开发爱好者。
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 1 hr 20 mins
+
 Text             18 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
 JSON             13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
 Go               10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
