@@ -1,13 +1,11 @@
-Hello!这里是yww，一个业余的开发爱好者。
-
-别打击了别打击了，会好好学习的啦。
+我所犯下的大罪，光是懒惰便已足够。 —— 折木奉太郎
 
 ##### Data
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whyneh&show_icons=true&hide_border=ture&theme=tokyonight)
 
 ##### PageView
-![:name](https://count.getloli.com/get/@:jaslli?theme=gelbooru)
+![:name](https://count.getloli.com/get/@:whyneh?theme=gelbooru)
 
 ##### wakeTime
 
