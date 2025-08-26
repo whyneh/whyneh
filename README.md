@@ -14,7 +14,11 @@ Hello!这里是yww，一个业余的开发爱好者。
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Text             18 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
+JSON             13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+Go               10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
+Markdown         9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+XML              9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
 ```
 
 <!--END_SECTION:waka-->
