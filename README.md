@@ -1,4 +1,5 @@
-我所犯下的大罪，光是懒惰便已足够。 —— 折木奉太郎
+
+<img src="./static/index.jpg" alt="index">
 
 ##### Data
 
