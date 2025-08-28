@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2025 - To: 26 August 2025
+From: 24 August 2025 - To: 27 August 2025
 
-Total Time: 7 hrs 16 mins
+Total Time: 10 hrs 32 mins
 
-Go                2 hrs 51 mins   >>>>>>>>>>---------------   39.28 %
-Java              1 hr 43 mins    >>>>>>-------------------   23.60 %
-Markdown          42 mins         >>-----------------------   09.69 %
-YAML              32 mins         >>-----------------------   07.35 %
-Text              18 mins         >------------------------   04.29 %
+Go                2 hrs 51 mins   >>>>>>>------------------   27.14 %
+Java              1 hr 49 mins    >>>>---------------------   17.23 %
+CSS               1 hr 33 mins    >>>>---------------------   14.77 %
+YAML              1 hr 7 mins     >>>----------------------   10.72 %
+Markdown          55 mins         >>-----------------------   08.76 %
 ```
 
 <!--END_SECTION:waka-->
