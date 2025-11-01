@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2025 - To: 30 October 2025
+From: 24 August 2025 - To: 01 November 2025
 
-Total Time: 112 hrs 32 mins
+Total Time: 115 hrs 8 mins
 
-Java                       34 hrs 17 mins  >>>>>>>>-----------------   30.46 %
-Go                         24 hrs 54 mins  >>>>>>-------------------   22.14 %
-Astro                      9 hrs 19 mins   >>-----------------------   08.29 %
-YAML                       8 hrs 18 mins   >>-----------------------   07.39 %
-XML                        8 hrs 8 mins    >>-----------------------   07.24 %
+Java                       36 hrs 16 mins  >>>>>>>>-----------------   31.51 %
+Go                         24 hrs 54 mins  >>>>>--------------------   21.64 %
+Astro                      9 hrs 19 mins   >>-----------------------   08.11 %
+XML                        8 hrs 43 mins   >>-----------------------   07.58 %
+YAML                       8 hrs 19 mins   >>-----------------------   07.24 %
 ```
 
 <!--END_SECTION:waka-->
