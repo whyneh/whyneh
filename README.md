@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2025 - To: 19 November 2025
+From: 24 August 2025 - To: 20 November 2025
 
-Total Time: 128 hrs 31 mins
+Total Time: 128 hrs 35 mins
 
-Java                       43 hrs 23 mins  >>>>>>>>-----------------   33.76 %
+Java                       43 hrs 23 mins  >>>>>>>>-----------------   33.74 %
 Go                         24 hrs 54 mins  >>>>>--------------------   19.38 %
 XML                        12 hrs 31 mins  >>-----------------------   09.75 %
 Astro                      9 hrs 42 mins   >>-----------------------   07.55 %
