@@ -1,11 +1,7 @@
-
 <img src="./static/index.jpg" alt="index">
 
-##### Data
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whyneh&show_icons=true&hide_border=ture&theme=tokyonight)
-
 ##### PageView
+
 ![:name](https://count.getloli.com/get/@:whyneh?theme=gelbooru)
 
 ##### wakeTime
