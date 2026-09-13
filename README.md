@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2025 - To: 11 September 2026
+From: 24 August 2025 - To: 12 September 2026
 
-Total Time: 301 hrs 43 mins
+Total Time: 301 hrs 48 mins
 
-Java                       78 hrs 9 mins         >>>>>>-------------------   25.91 %
+Java                       78 hrs 14 mins        >>>>>>-------------------   25.92 %
 Astro                      41 hrs 23 mins        >>>----------------------   13.72 %
 Go                         26 hrs 53 mins        >>-----------------------   08.91 %
 Other                      25 hrs 41 mins        >>-----------------------   08.52 %
