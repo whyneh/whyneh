@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2025 - To: 07 November 2026
+From: 24 August 2025 - To: 08 November 2026
 
-Total Time: 310 hrs 14 mins
+Total Time: 312 hrs 7 mins
 
-Java                       79 hrs 9 mins         >>>>>>-------------------   25.51 %
-Astro                      43 hrs 11 mins        >>>----------------------   13.92 %
-Other                      27 hrs 8 mins         >>-----------------------   08.75 %
-Go                         26 hrs 53 mins        >>-----------------------   08.67 %
-Markdown                   19 hrs 42 mins        >>-----------------------   06.35 %
+Java                       79 hrs 9 mins         >>>>>>-------------------   25.36 %
+Astro                      43 hrs 11 mins        >>>----------------------   13.84 %
+Go                         27 hrs 29 mins        >>-----------------------   08.81 %
+Other                      27 hrs 8 mins         >>-----------------------   08.69 %
+Markdown                   20 hrs 32 mins        >>-----------------------   06.58 %
 ```
 
 <!--END_SECTION:waka-->
